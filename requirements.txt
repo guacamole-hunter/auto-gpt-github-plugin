@@ -7,3 +7,7 @@ wheel
 setuptools
 build
 twine
+
+# dev
+requests
+pandas
